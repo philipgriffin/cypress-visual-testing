@@ -1,1 +1,1 @@
-# cypress-visual-testing
+# A Tutorial for Visual Testing with Cypress
